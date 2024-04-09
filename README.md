@@ -1,1 +1,3 @@
-# apz-pzpi-21-10-ostroverkhov-yehor
+ПЗПІ-21-10
+Островерхов Єгор
+PlantAutolight
